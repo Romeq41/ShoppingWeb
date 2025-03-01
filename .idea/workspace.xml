@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d98ac104-15f1-4208-ab01-b16a7c769cea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/online-store/about.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/addproduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/adminpage.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/assets/Css/adminpage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/assets/Js/MostPopularProducts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/assets/Js/NewestProducts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/assets/Js/addproduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/assets/Js/address.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/assets/Js/adminpage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/assets/Js/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/assets/Js/cart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/assets/Js/components/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/assets/Js/components/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/assets/Js/components/header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/assets/Js/components/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/assets/Js/components/slider-carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/assets/Js/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/assets/Js/delivery-and-payment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/assets/Js/editorder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/assets/Js/editproduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/assets/Js/edituser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/assets/Js/favoriteProducts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/assets/Js/order-confirmation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/assets/Js/order-details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/assets/Js/order-summary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/assets/Js/orders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/assets/Js/password_reset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/assets/Js/personal-info.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/assets/Js/product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/assets/Js/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/assets/Js/shop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/assets/Js/userPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/cart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/delivery-and-payment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/editorder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/editproduct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/edituser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/favorites.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/notfound.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/order-confirmation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/order-details.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/order-summary.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/orders.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/password-reset.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/personal-info.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/shop.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/online-store/userpage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/online-store/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/Css/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/online-store/assets/Css/about.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/Css/contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/online-store/assets/Css/contact.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/Css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/online-store/assets/Css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/Css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/online-store/assets/Css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/Css/shop.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/Js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/SASS/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/online-store/assets/SASS/layout/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/SASS/layout/_navBar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/online-store/assets/SASS/layout/_navBar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/SASS/layout/_prodacts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/online-store/assets/SASS/layout/_products.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/SASS/layout/_servers.scss" beforeDir="false" afterPath="$PROJECT_DIR$/online-store/assets/SASS/layout/_servers.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/SASS/pages/about/about.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/SASS/pages/about/sections/_about-header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/SASS/pages/about/sections/_about.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/SASS/pages/home/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/SASS/pages/home/sections/_banner.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/SASS/pages/home/sections/_landing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/SASS/pages/home/sections/_offer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/SASS/pages/shop/sections/_shop-header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/SASS/pages/shop/shop.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/SASS/rules/_global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/online-store/assets/SASS/rules/_global.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/images/about/1.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/images/about/a1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/images/about/a2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/images/about/a3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/images/about/a4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/images/banner/b14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/images/banner/b19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/images/banner/b20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/images/blog/b1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/images/blog/b2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/images/blog/b3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/images/blog/b4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/images/blog/b5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/images/blog/b6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/images/blog/b7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/images/features/f1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/images/features/f2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/images/features/f3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/images/features/f4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/images/features/f5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/images/features/f6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/images/pay/app.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/images/pay/pay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/images/pay/play.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/images/people/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/images/people/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/assets/images/people/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-store/shop.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/Shoppy-backend/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/online-store" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Romeq41&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ahmedsamyop/online-store.git&quot;,
+    &quot;accountId&quot;: &quot;cd4f8f68-dddc-4e96-aa37-bd8339ab32e7&quot;
+  }
+}</component>
+  <component name="MigrationScriptOptions">
+    <option name="ignoreImplicitObjects" value="true" />
+    <option name="ignoreSourceCode" value="false" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe">
+    <include_path>
+      <path value="$PROJECT_DIR$/Shoppy-backend/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/Shoppy-backend/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2nnAouwatG8rQHJCgzEmq3E0LB2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.api.php.executor": "Run",
+    "JavaScript Debug.config.php.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
+    "Node.js.adminpage.js.executor": "Run",
+    "Node.js.orders.js.executor": "Run",
+    "Node.js.products.js.executor": "Run",
+    "Node.js.userPage.js.executor": "Run",
+    "PHP Script.api.php.executor": "Run",
+    "PHP Script.config.php.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
+    "database.data.extractors.current.id": "Comma-separated (CSV)_id",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/xamp_new/htdocs/Shoppy",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql",
+      "mariadb"
+    ],
+    "com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect": [
+      "MySQL"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\xampp\htdocs\Shoppy\online-store\assets\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\xampp\htdocs\Shoppy\online-store\pages" />
+      <recent name="E:\xampp\htdocs\Shoppy\online-store\assets\Js\components" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PS-242.23726.107" />
+        <option value="bundled-php-predefined-a98d8de5180a-90914f2295cb-com.jetbrains.php.sharedIndexes-PS-242.23726.107" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d98ac104-15f1-4208-ab01-b16a7c769cea" name="Changes" comment="" />
+      <created>1729598645318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729598645318</updated>
+      <workItem from="1729598646722" duration="441000" />
+      <workItem from="1729599098874" duration="1265000" />
+      <workItem from="1729600376233" duration="2957000" />
+      <workItem from="1729603347596" duration="121022000" />
+      <workItem from="1730154034227" duration="127192000" />
+      <workItem from="1730880317789" duration="33029000" />
+      <workItem from="1731057467175" duration="35463000" />
+      <workItem from="1731495083111" duration="27118000" />
+      <workItem from="1731570261989" duration="3881000" />
+      <workItem from="1731605269623" duration="41235000" />
+      <workItem from="1731800361815" duration="604000" />
+      <workItem from="1731800996744" duration="104000" />
+      <workItem from="1731801107668" duration="6912000" />
+      <workItem from="1731874302507" duration="21424000" />
+      <workItem from="1732119096797" duration="68580000" />
+      <workItem from="1732465692898" duration="1765000" />
+      <workItem from="1732817615532" duration="104677000" />
+      <workItem from="1733750901271" duration="36389000" />
+      <workItem from="1733870581047" duration="3035000" />
+      <workItem from="1733909180025" duration="1794000" />
+      <workItem from="1734038340451" duration="18396000" />
+      <workItem from="1734081947647" duration="937000" />
+      <workItem from="1734084885090" duration="8739000" />
+      <workItem from="1734185736398" duration="520000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,97 @@
+.products-view {
+  padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
+  background: var(--bgSection);
+  min-height: calc(100vh - 58px);
+}
+.products-view .container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 20px;
+  min-width: 300px;
+  margin-bottom: 20px;
+}
+.products-view .container .product {
+  background: white;
+  border-radius: 15px;
+  box-shadow: 0 0 5px 0 #ffffff;
+  padding: 10px;
+}
+.products-view .container .product .img-container {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+.products-view .container .product .img-container img {
+  width: 100%;
+  border-radius: 15px;
+  display: block;
+}
+.products-view .container .product .content {
+  padding-top: 0;
+  margin-top: 0;
+  padding-bottom: 50px;
+  position: relative;
+  height: 100%;
+}
+.products-view .container .product .content .brand {
+  color: var(--textColor);
+}
+.products-view .container .product .content .title {
+  font-weight: 500;
+  margin: 5px 0;
+}
+.products-view .container .product .content .rate {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 5px;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  color: #ffc107;
+  font-size: 14px;
+}
+.products-view .container .product .content .rate .rating-count {
+  font-size: 10px;
+}
+.products-view .container .product .content .rate .numerical-rating {
+  font-size: 20px;
+}
+.products-view .container .product .content .price {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  font-size: 20px;
+  color: var(--mainColor);
+}
+.products-view .container .product .content .product-cart {
+  position: absolute;
+  width: fit-content;
+  padding: 10px;
+  right: 0;
+  bottom: 0;
+  background-color: var(--mainColor);
+  color: white;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: var(--mainTransition);
+  border: none;
+  border-radius: 5px;
+}
+.products-view .container .product .content .product-cart .cart-desc {
+  font-size: 17px;
+  margin: 0 5px;
+}
+.products-view .container .product .content .product-cart:hover {
+  background-color: var(--hoverColor);
+  color: white;
+}
+.products-view .container .product .content .product-cart:active {
+  transform: scale(0.95);
+}
+
+/*# sourceMappingURL=products.css.map */
