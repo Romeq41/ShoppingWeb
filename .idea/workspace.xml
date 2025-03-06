@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d98ac104-15f1-4208-ab01-b16a7c769cea" name="Changes" comment="product display fix" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/Shoppy-backend/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Romeq41&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Romeq41/ShoppingWeb.git&quot;,
+    &quot;accountId&quot;: &quot;cd4f8f68-dddc-4e96-aa37-bd8339ab32e7&quot;
+  }
+}</component>
+  <component name="MigrationScriptOptions">
+    <option name="ignoreImplicitObjects" value="true" />
+    <option name="ignoreSourceCode" value="false" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe">
+    <include_path>
+      <path value="$PROJECT_DIR$/Shoppy-backend/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/Shoppy-backend/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2nnAouwatG8rQHJCgzEmq3E0LB2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.api.php.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.config.php.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.adminpage.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.orders.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.products.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.userPage.js.executor&quot;: &quot;Run&quot;,
+    &quot;PHP Script.api.php.executor&quot;: &quot;Run&quot;,
+    &quot;PHP Script.config.php.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
+    &quot;database.data.extractors.current.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/xamp_new2/htdocs/ShoppingWeb&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;,
+      &quot;mariadb&quot;
+    ],
+    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect&quot;: [
+      &quot;MySQL&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\xampp\htdocs\Shoppy\online-store\assets\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\xampp\htdocs\Shoppy\online-store\pages" />
+      <recent name="E:\xampp\htdocs\Shoppy\online-store\assets\Js\components" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PS-242.23726.107" />
+        <option value="bundled-php-predefined-a98d8de5180a-90914f2295cb-com.jetbrains.php.sharedIndexes-PS-242.23726.107" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d98ac104-15f1-4208-ab01-b16a7c769cea" name="Changes" comment="" />
+      <created>1729598645318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729598645318</updated>
+      <workItem from="1729598646722" duration="441000" />
+      <workItem from="1729599098874" duration="1265000" />
+      <workItem from="1729600376233" duration="2957000" />
+      <workItem from="1729603347596" duration="121022000" />
+      <workItem from="1730154034227" duration="127192000" />
+      <workItem from="1730880317789" duration="33029000" />
+      <workItem from="1731057467175" duration="35463000" />
+      <workItem from="1731495083111" duration="27118000" />
+      <workItem from="1731570261989" duration="3881000" />
+      <workItem from="1731605269623" duration="41235000" />
+      <workItem from="1731800361815" duration="604000" />
+      <workItem from="1731800996744" duration="104000" />
+      <workItem from="1731801107668" duration="6912000" />
+      <workItem from="1731874302507" duration="21424000" />
+      <workItem from="1732119096797" duration="68580000" />
+      <workItem from="1732465692898" duration="1765000" />
+      <workItem from="1732817615532" duration="104677000" />
+      <workItem from="1733750901271" duration="36389000" />
+      <workItem from="1733870581047" duration="3035000" />
+      <workItem from="1733909180025" duration="1794000" />
+      <workItem from="1734038340451" duration="18396000" />
+      <workItem from="1734081947647" duration="937000" />
+      <workItem from="1734084885090" duration="8739000" />
+      <workItem from="1734185736398" duration="520000" />
+      <workItem from="1741178186250" duration="726000" />
+      <workItem from="1741258161801" duration="2226000" />
+    </task>
+    <task id="LOCAL-00001" summary="product display fix">
+      <option name="closed" value="true" />
+      <created>1741259130219</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741259130219</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="product display fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="product display fix" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
